@@ -80,3 +80,8 @@ The "line filtering" currently uses 20% of new information. This may not be enou
 For efficiency, it may be worth to mask the image, before applying the edge detection.
 Also, lines in output of the Hough Transform should be further filered and grouped together. One way to group together lines is to apply an extra Hough Transform on the line obtained from the previous result, and consider cluster of many points together (representing lines with similar slope and intercept, hence close to each other).
 
+The algorithm was tested on a video from YouTube
+https://www.youtube.com/watch?v=Szo1mcZbP_4
+
+with decent result that can be seen in the test video output folder.
+
