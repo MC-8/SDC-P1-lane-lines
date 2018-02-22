@@ -14,15 +14,31 @@ The goals / steps of this project are the following:
 [image2]: ./test_images_output/2_solidYellowLeft.jpg "Grayscale"
 
 ---
+[//]: # (Image References)
 
-[image11]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
+[image1]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
+
+[//]: # (Image References)
 
 [image3]: ./test_images_output/3_solidYellowLeft.jpg "Edge detected"
+
+[//]: # (Image References)
+
 [image4]: ./test_images_output/4_solidYellowLeft.jpg "Edge + Mask"
+
+[//]: # (Image References)
+
 [image5]: ./test_images_output/5_solidYellowLeft.jpg "Hough segments"
+
+[//]: # (Image References)
+
 [image6]: ./test_images_output/6_solidYellowLeft.jpg "Hough segment on image"
+
+[//]: # (Image References)
+
 [image7]: ./test_images_output/7_solidYellowLeft.jpg "Averaged/extrapolated Hough lines"
 ---
+
 
 ### Reflection
 
