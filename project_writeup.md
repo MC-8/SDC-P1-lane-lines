@@ -7,13 +7,10 @@
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-[//]: # (Image References)
-
-[image0]: ./examples/grayscale.jpg "Grayscale"
-
-[image1]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
+![image0]: ./examples/grayscale.jpg "Grayscale"
+![image1]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
 [image2]: ./test_images_output/2_solidYellowLeft.jpg "Grayscale"
 [image3]: ./test_images_output/3_solidYellowLeft.jpg "Edge detected"
 [image4]: ./test_images_output/4_solidYellowLeft.jpg "Edge + Mask"
