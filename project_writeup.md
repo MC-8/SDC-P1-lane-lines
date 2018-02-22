@@ -36,7 +36,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image7]: ./test_images_output/7_solidYellowLeft.jpg "Averaged/extrapolated Hough lines"
+[image7]: ./test_images_output/7_solidYellowLeft.jpg "Averagedextrapolated Hough lines"
+
 ---
 
 
