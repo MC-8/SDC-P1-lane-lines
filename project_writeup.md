@@ -11,12 +11,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image2]: ./test_images_output/2_solidYellowLeft.jpg "Grayscale"
 
 ---
 
 [image11]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
-[image2]: ./test_images_output/2_solidYellowLeft.jpg "Grayscale"
+
 [image3]: ./test_images_output/3_solidYellowLeft.jpg "Edge detected"
 [image4]: ./test_images_output/4_solidYellowLeft.jpg "Edge + Mask"
 [image5]: ./test_images_output/5_solidYellowLeft.jpg "Hough segments"
