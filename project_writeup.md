@@ -8,10 +8,14 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
+
 [//]: # (Image References)
 
-[image0]: ./examples/grayscale.jpg "Grayscale"
-[image1]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
+[image1]: ./examples/grayscale.jpg "Grayscale"
+
+---
+
+[image11]: ./test_images_output/1_solidYellowLeft.jpg "Blurred"
 [image2]: ./test_images_output/2_solidYellowLeft.jpg "Grayscale"
 [image3]: ./test_images_output/3_solidYellowLeft.jpg "Edge detected"
 [image4]: ./test_images_output/4_solidYellowLeft.jpg "Edge + Mask"
@@ -23,6 +27,8 @@ The goals / steps of this project are the following:
 ### Reflection
 
 My pipeline consisted of the following steps. First, I converted the images to grayscale, then I applied a gaussian blur on it. This is to improve the results of the Canny edge detection algorithm.
+![alt text][image1]
+lol
 ![alt text][image2] 
 
 
